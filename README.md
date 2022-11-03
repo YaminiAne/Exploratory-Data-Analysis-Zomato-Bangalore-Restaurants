@@ -1,6 +1,6 @@
 # Exploratory Data Analysis: Zomato Bangalore Restaurants
 # Introduction
-> ![Zomato Bangalore Restaurants](https://transpixelstudio.com/portfolio-item/zomato/)
+> ![Zomato Bangalore Restaurants](https://i.cdn.newsbytesapp.com/images/l34220220322131709.png)
 
 With the rise of meal delivery services, everyone can now enjoy their favorite restaurant food from the comfort of their own home. Giant food aggregators and food shipping companies like Zomato have made it feasible. Zomato is one of India’s most extensively used services for searching restaurants, ordering food online, making table reservations, etc. Bangalore, home to many restaurants and cuisines worldwide, has over 12,000 restaurants doing their business through systems like Zomato. This wide variety is exponentially increasing each day.
 
@@ -9,8 +9,6 @@ The goal of this data analysis is to comprehend the factors that influence the e
 # Dataset
 The dataset used is available to everyone on the Kaggle platform
 Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
-
-Dataset: https://www.kaggle.com/datasets
 
 # Additional resources
 My article on this project is available at: https://www.analyticsvidhya.com/blog/2022/09/exploratory-data-analysis-of-zomato-bangalore-restaurants/
