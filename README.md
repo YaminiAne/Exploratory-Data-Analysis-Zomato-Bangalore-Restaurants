@@ -1,6 +1,6 @@
 # Exploratory Data Analysis: Zomato Bangalore Restaurants
 # Introduction
-<img src="C:\Users\admin\Desktop/to/img.jpg" alt="Alt text">
+![This is an image](https://transpixelstudio.com/portfolio-item/zomato/)
 
 With the rise of meal delivery services, everyone can now enjoy their favorite restaurant food from the comfort of their own home. Giant food aggregators and food shipping companies like Zomato have made it feasible. Zomato is one of India’s most extensively used services for searching restaurants, ordering food online, making table reservations, etc. Bangalore, home to many restaurants and cuisines worldwide, has over 12,000 restaurants doing their business through systems like Zomato. This wide variety is exponentially increasing each day.
 
