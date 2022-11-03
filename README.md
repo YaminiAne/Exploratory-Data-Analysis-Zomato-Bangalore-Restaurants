@@ -10,6 +10,9 @@ The goal of this data analysis is to comprehend the factors that influence the e
 The dataset used is available to everyone on the Kaggle platform
 Link: https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
+Find the data analysis implementation at [EDA_Zomato Bangalore Restaurants][1]
+[1]: https://github.com/YaminiAne/Exploratory-Data-Analysis-Zomato-Bangalore-Restaurants/blob/main/EDA_Zomato%20Bangalore%20Restaraunts.ipynb "EDA_Zomato Bangalore Restaurants"
+
 # Additional resources
 My article on this project is available at: https://www.analyticsvidhya.com/blog/2022/09/exploratory-data-analysis-of-zomato-bangalore-restaurants/
 
